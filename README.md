@@ -1,5 +1,4 @@
-# Dapper_Sample
-this sample created to test Dapper functionality
-
+# Dapper
+This is My dapper examples
 Ref: https://github.com/StackExchange/Dapper
 
